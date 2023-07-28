@@ -1,4 +1,4 @@
-# ![ToolMCNoob (Infinity Premium Edition) Logo](https://github.com/gigwanoobstudios/ToolMCNoob/icon.png)
+# ![ToolMCNoob (Infinity Premium Edition) Logo](https://github.com/gigwanoobstudios/ToolMCNoob/Gigwa_logo.png)
 
 > Your Ultimate Minecraft Pocket Edition Companion!
 
