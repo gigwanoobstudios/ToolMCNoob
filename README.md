@@ -3,7 +3,8 @@
 > Your Ultimate Minecraft Pocket Edition Companion!
 
 [![GitHub license](https://img.shields.io/github/license/gigwanoobstudios/ToolMCNoob)](https://github.com/gigwanoobstudios/ToolMCNoob//blob/main/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/gigwanoobstudios/ToolMCNoob/)](https://github.com/gigwanoobstudios/ToolMCNoob//releases)
+[![GitHub release](https://img.shields.io/github/downloads/gigwanoobstudios/ToolMCNoob/public-release/total
+)](https://github.com/gigwanoobstudios/ToolMCNoob//releases)
 [![GitHub issues](https://img.shields.io/github/issues/gigwanoobstudios/ToolMCNoob/)](https://github.com/gigwanoobstudios/ToolMCNoob//issues)
 
 ## Description
